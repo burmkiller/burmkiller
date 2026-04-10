@@ -1,6 +1,6 @@
 ## Ramzi Benounis
 
-**Founder & CEO of [BetterFit](https://betterfit.tech)** — Montreal, Canada
+**Founder & CEO of [BetterFit](https://betterfit.ca)** — Montreal, Canada
 
 I run a tech talent and product company that places senior engineers into high-growth startups and builds products end-to-end. Before starting BetterFit, I worked as a full-stack engineer across SaaS, logistics, and fintech — shipping production code, leading teams, and architecting complex systems.
 
@@ -56,6 +56,6 @@ I'm a hands-on technical founder. I still write code daily and architect the sys
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramzi-benounis-ab67b215b/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ramzi.betterfit/)
-[![BetterFit](https://img.shields.io/badge/BetterFit-050a11?style=flat&logoColor=white)](https://betterfit.tech)
+[![BetterFit](https://img.shields.io/badge/BetterFit-050a11?style=flat&logoColor=white)](https://betterfit.ca)
 
-**Email:** support@betterfit.tech
+**Email:** support@betterfit.ca
